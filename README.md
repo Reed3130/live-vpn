@@ -1,2 +1,10 @@
 # live-vpn
-AVK-VPN live servers (TCP &lt;=150ms). Auto-updated. Only live.txt.
+
+Автообновляемый список живых VPN-эндпоинтов (TCP ≤ 150 ms).
+
+**Единственный рабочий файл:** [live.txt](./live.txt)
+
+Прямая ссылка (raw):
+https://raw.githubusercontent.com/Reed3130/live-vpn/main/live.txt
+
+Источники подписок и логика провайдеров хранятся в закрытом репозитории приложения и сюда не публикуются.
