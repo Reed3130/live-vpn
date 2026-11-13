@@ -1,10 +1,8 @@
 # live-vpn
 
-Автообновляемый список живых VPN-эндпоинтов (TCP ≤ 150 ms).
+Мониторинг доступности VPN (TCP ≤ 80 ms), авто каждые 30 минут.
 
-**Единственный рабочий файл:** [live.txt](./live.txt)
+- **live.txt** — только живые share-link (без шапки): https://raw.githubusercontent.com/Reed3130/live-vpn/main/live.txt
+- **status.json** — снимок мониторинга: https://raw.githubusercontent.com/Reed3130/live-vpn/main/status.json
 
-Прямая ссылка (raw):
-https://raw.githubusercontent.com/Reed3130/live-vpn/main/live.txt
-
-Источники подписок и логика провайдеров хранятся в закрытом репозитории приложения и сюда не публикуются.
+Число живых / проверенных и время — в **описании репозитория**.
