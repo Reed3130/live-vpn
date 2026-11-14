@@ -1,17 +1,10 @@
 {
-  "updated_utc": "2026-11-14T06:30:23Z",
-  "updated_human": "2026-11-14 06:30 UTC",
-  "max_ms": 200,
-  "probed": 26637,
-  "live": 13,
-  "down": 19264,
-  "availability_pct": 0.0,
-  "avg_ms_live": 25,
-  "p50_ms_live": 6,
-  "duplicates_removed": 0,
-  "tg_ok": 13,
-  "tg_fail": 3987,
-  "tg_candidates": 4000,
-  "top_stable": [],
-  "recently_down": []
+  "updated_utc": "2026-11-14T16:11:05Z",
+  "updated_human": "2026-11-14 16:11 UTC",
+  "mode": "tcp-stages-ru-skip",
+  "max_ms": 100,
+  "live": 2958,
+  "ru_whitelist": 2739,
+  "tcp_ok": 230,
+  "avg_ms_tcp": 18
 }
