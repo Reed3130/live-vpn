@@ -1,0 +1,50 @@
+name: Actions quota monitor
+
+on:
+  schedule:
+    - cron: "15 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout public
+        uses: actions/checkout@v4
+
+      - name: Fetch monitor script from private
+        env:
+          PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
+        run: |
+          set -e
+          curl -fsSL -H "Authorization: Bearer ${PRIVATE_REPO_TOKEN}" \
+            -H "Accept: application/vnd.github.raw" \
+            "https://api.github.com/repos/Reed3130/AVK-VPN-private/contents/scripts/live_probe/monitor_actions_quota.py?ref=main" \
+            -o monitor_actions_quota.py
+          wc -l monitor_actions_quota.py
+
+      - name: Run monitor
+        env:
+          PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
+          GH_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
+          QUOTA_STATUS_PATH: actions_quota_status.json
+        run: python3 monitor_actions_quota.py
+
+      - name: Commit status (not live.txt scripts)
+        run: |
+          set -e
+          git config user.name "quota-monitor"
+          git config user.email "monitor@users.noreply.github.com"
+          # keep public clean: only status json + live.txt + readme + workflow
+          git add actions_quota_status.json
+          if git diff --staged --quiet; then
+            echo "no change"
+          else
+            git commit -m "quota monitor $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+          rm -f monitor_actions_quota.py
