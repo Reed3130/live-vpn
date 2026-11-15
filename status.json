@@ -1,10 +1,10 @@
 {
-  "updated_utc": "2026-11-14T17:30:09Z",
-  "updated_human": "2026-11-14 17:30 UTC",
+  "updated_utc": "2026-11-15T05:22:44Z",
+  "updated_human": "2026-11-15 05:22 UTC",
   "mode": "tcp-stages-ru-skip",
   "max_ms": 1000,
-  "live": 4000,
-  "tcp_ok": 4000,
+  "live": 3999,
+  "tcp_ok": 3999,
   "entry": true,
-  "avg_ms_tcp": 10
+  "avg_ms_tcp": 28
 }
