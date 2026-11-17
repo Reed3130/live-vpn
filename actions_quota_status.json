@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-16T21:59:08Z",
+  "updated_utc": "2026-11-17T07:51:56Z",
   "private": {
     "repo": "Reed3130/AVK-VPN-private",
     "sampled": 15,
@@ -8,13 +8,13 @@
     "cancelled": 0,
     "quota_like_failures": 15,
     "last_success_at": null,
-    "last_failure_at": "2026-11-16T21:47:34Z",
+    "last_failure_at": "2026-11-17T04:20:16Z",
     "last_run": {
-      "id": 43963644012,
+      "id": 44016469890,
       "event": "push",
       "status": "completed",
       "conclusion": "failure",
-      "created_at": "2026-11-16T21:47:34Z",
+      "created_at": "2026-11-17T04:20:16Z",
       "name": "Android CI",
       "runner_id": 0,
       "steps": 0,
@@ -22,6 +22,66 @@
       "quota_like": true
     },
     "recent": [
+      {
+        "id": 44016469890,
+        "event": "push",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2026-11-17T04:20:16Z",
+        "name": "Android CI",
+        "runner_id": 0,
+        "steps": 0,
+        "duration_s": 2.0,
+        "quota_like": true
+      },
+      {
+        "id": 44014407510,
+        "event": "push",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2026-11-17T04:02:55Z",
+        "name": "Android CI",
+        "runner_id": 0,
+        "steps": 0,
+        "duration_s": 2.0,
+        "quota_like": true
+      },
+      {
+        "id": 44014349731,
+        "event": "workflow_dispatch",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2026-11-17T04:02:24Z",
+        "name": "Android CI",
+        "runner_id": 0,
+        "steps": 0,
+        "duration_s": 1.0,
+        "quota_like": true
+      },
+      {
+        "id": 44011850398,
+        "event": "push",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2026-11-17T03:40:29Z",
+        "name": "Android CI",
+        "runner_id": 0,
+        "steps": 0,
+        "duration_s": 2.0,
+        "quota_like": true
+      },
+      {
+        "id": 43996923505,
+        "event": "schedule",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2026-11-17T01:37:00Z",
+        "name": "Live probe every 2h",
+        "runner_id": 0,
+        "steps": 0,
+        "duration_s": 2.0,
+        "quota_like": true
+      },
       {
         "id": 43963644012,
         "event": "push",
@@ -141,102 +201,66 @@
         "steps": 0,
         "duration_s": 1.0,
         "quota_like": true
-      },
-      {
-        "id": 43925321040,
-        "event": "workflow_dispatch",
-        "status": "completed",
-        "conclusion": "failure",
-        "created_at": "2026-11-16T18:06:24Z",
-        "name": "Android CI",
-        "runner_id": 0,
-        "steps": 0,
-        "duration_s": 2.0,
-        "quota_like": true
-      },
-      {
-        "id": 43925319323,
-        "event": "push",
-        "status": "completed",
-        "conclusion": "failure",
-        "created_at": "2026-11-16T18:06:24Z",
-        "name": "Android CI",
-        "runner_id": 0,
-        "steps": 0,
-        "duration_s": 3.0,
-        "quota_like": true
-      },
-      {
-        "id": 43921234421,
-        "event": "push",
-        "status": "completed",
-        "conclusion": "failure",
-        "created_at": "2026-11-16T17:42:46Z",
-        "name": "Android CI",
-        "runner_id": 0,
-        "steps": 0,
-        "duration_s": 2.0,
-        "quota_like": true
-      },
-      {
-        "id": 43916620957,
-        "event": "push",
-        "status": "completed",
-        "conclusion": "failure",
-        "created_at": "2026-11-16T17:16:23Z",
-        "name": "Android CI",
-        "runner_id": 0,
-        "steps": 0,
-        "duration_s": 2.0,
-        "quota_like": true
-      },
-      {
-        "id": 43915738121,
-        "event": "push",
-        "status": "completed",
-        "conclusion": "failure",
-        "created_at": "2026-11-16T17:11:30Z",
-        "name": "Android CI",
-        "runner_id": 0,
-        "steps": 0,
-        "duration_s": 2.0,
-        "quota_like": true
       }
     ],
     "quota_status": "exhausted_or_no_runner"
   },
   "public": {
     "repo": "Reed3130/live-vpn",
-    "sampled": 11,
-    "success": 9,
+    "sampled": 13,
+    "success": 11,
     "failure": 1,
     "cancelled": 0,
     "quota_like_failures": 0,
-    "last_success_at": "2026-11-16T19:55:58Z",
+    "last_success_at": "2026-11-17T02:43:00Z",
     "last_failure_at": "2026-11-16T21:14:46Z",
     "last_run": {
-      "id": 43965494577,
+      "id": 44041967588,
       "event": "schedule",
       "status": "in_progress",
       "conclusion": "",
-      "created_at": "2026-11-16T21:58:55Z",
+      "created_at": "2026-11-17T07:51:47Z",
       "name": "Actions quota monitor",
-      "runner_id": 1000000371,
+      "runner_id": 1000000378,
       "steps": 6,
       "duration_s": null,
       "quota_like": false
     },
     "recent": [
       {
-        "id": 43965494577,
+        "id": 44041967588,
         "event": "schedule",
         "status": "in_progress",
         "conclusion": "",
+        "created_at": "2026-11-17T07:51:47Z",
+        "name": "Actions quota monitor",
+        "runner_id": 1000000378,
+        "steps": 6,
+        "duration_s": null,
+        "quota_like": false
+      },
+      {
+        "id": 44005007559,
+        "event": "schedule",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-11-17T02:43:00Z",
+        "name": "Live probe every 2h",
+        "runner_id": 1000000373,
+        "steps": 11,
+        "duration_s": 1016.0,
+        "quota_like": false
+      },
+      {
+        "id": 43965494577,
+        "event": "schedule",
+        "status": "completed",
+        "conclusion": "success",
         "created_at": "2026-11-16T21:58:55Z",
         "name": "Actions quota monitor",
         "runner_id": 1000000371,
-        "steps": 6,
-        "duration_s": null,
+        "steps": 7,
+        "duration_s": 28.0,
         "quota_like": false
       },
       {
@@ -367,8 +391,8 @@
   },
   "cache_private": {
     "full_name": "Reed3130/AVK-VPN-private",
-    "active_caches_size_in_bytes": 2253651643,
-    "active_caches_count": 25
+    "active_caches_size_in_bytes": 1496913567,
+    "active_caches_count": 15
   },
   "cache_public": {
     "full_name": "Reed3130/live-vpn",
