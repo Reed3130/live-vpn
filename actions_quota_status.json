@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-17T20:52:51Z",
+  "updated_utc": "2026-11-18T07:24:09Z",
   "private": {
     "repo": "Reed3130/AVK-VPN-private",
     "sampled": 15,
@@ -8,20 +8,44 @@
     "cancelled": 0,
     "quota_like_failures": 15,
     "last_success_at": null,
-    "last_failure_at": "2026-11-17T20:03:41Z",
+    "last_failure_at": "2026-11-18T04:46:18Z",
     "last_run": {
-      "id": 44165246752,
+      "id": 44239614408,
       "event": "push",
       "status": "completed",
       "conclusion": "failure",
-      "created_at": "2026-11-17T20:03:41Z",
+      "created_at": "2026-11-18T04:46:18Z",
       "name": "Android CI",
       "runner_id": 0,
       "steps": 0,
-      "duration_s": 2.0,
+      "duration_s": 3.0,
       "quota_like": true
     },
     "recent": [
+      {
+        "id": 44239614408,
+        "event": "push",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2026-11-18T04:46:18Z",
+        "name": "Android CI",
+        "runner_id": 0,
+        "steps": 0,
+        "duration_s": 3.0,
+        "quota_like": true
+      },
+      {
+        "id": 44225847301,
+        "event": "schedule",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2026-11-18T02:47:50Z",
+        "name": "Live filter hourly",
+        "runner_id": 0,
+        "steps": 0,
+        "duration_s": 2.0,
+        "quota_like": true
+      },
       {
         "id": 44165246752,
         "event": "push",
@@ -177,30 +201,6 @@
         "steps": 0,
         "duration_s": 2.0,
         "quota_like": true
-      },
-      {
-        "id": 43959155929,
-        "event": "push",
-        "status": "completed",
-        "conclusion": "failure",
-        "created_at": "2026-11-16T21:20:53Z",
-        "name": "Android CI",
-        "runner_id": 0,
-        "steps": 0,
-        "duration_s": 2.0,
-        "quota_like": true
-      },
-      {
-        "id": 43958085960,
-        "event": "workflow_dispatch",
-        "status": "completed",
-        "conclusion": "failure",
-        "created_at": "2026-11-16T21:14:45Z",
-        "name": "Android CI",
-        "runner_id": 0,
-        "steps": 0,
-        "duration_s": 2.0,
-        "quota_like": true
       }
     ],
     "quota_status": "exhausted_or_no_runner"
@@ -212,31 +212,67 @@
     "failure": 1,
     "cancelled": 0,
     "quota_like_failures": 0,
-    "last_success_at": "2026-11-17T12:37:29Z",
+    "last_success_at": "2026-11-18T03:18:13Z",
     "last_failure_at": "2026-11-16T21:14:46Z",
     "last_run": {
-      "id": 44173911701,
+      "id": 44258561010,
       "event": "schedule",
       "status": "in_progress",
       "conclusion": "",
-      "created_at": "2026-11-17T20:52:45Z",
+      "created_at": "2026-11-18T07:23:57Z",
       "name": "Actions quota monitor",
-      "runner_id": 1000000387,
+      "runner_id": 1000000392,
       "steps": 6,
       "duration_s": null,
       "quota_like": false
     },
     "recent": [
       {
-        "id": 44173911701,
+        "id": 44258561010,
         "event": "schedule",
         "status": "in_progress",
         "conclusion": "",
+        "created_at": "2026-11-18T07:23:57Z",
+        "name": "Actions quota monitor",
+        "runner_id": 1000000392,
+        "steps": 6,
+        "duration_s": null,
+        "quota_like": false
+      },
+      {
+        "id": 44229456482,
+        "event": "schedule",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-11-18T03:18:13Z",
+        "name": "Live probe every 2h",
+        "runner_id": 1000000390,
+        "steps": 11,
+        "duration_s": 22.0,
+        "quota_like": false
+      },
+      {
+        "id": 44185184684,
+        "event": "schedule",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-11-17T21:57:34Z",
+        "name": "Live probe every 2h",
+        "runner_id": 1000000388,
+        "steps": 11,
+        "duration_s": 22.0,
+        "quota_like": false
+      },
+      {
+        "id": 44173911701,
+        "event": "schedule",
+        "status": "completed",
+        "conclusion": "success",
         "created_at": "2026-11-17T20:52:45Z",
         "name": "Actions quota monitor",
         "runner_id": 1000000387,
-        "steps": 6,
-        "duration_s": null,
+        "steps": 7,
+        "duration_s": 23.0,
         "quota_like": false
       },
       {
@@ -369,42 +405,6 @@
         "runner_id": 1000000345,
         "steps": 11,
         "duration_s": 673.0,
-        "quota_like": false
-      },
-      {
-        "id": 43762226185,
-        "event": "workflow_dispatch",
-        "status": "completed",
-        "conclusion": "success",
-        "created_at": "2026-11-15T21:10:48Z",
-        "name": "Actions quota monitor",
-        "runner_id": 1000000340,
-        "steps": 7,
-        "duration_s": 20.0,
-        "quota_like": false
-      },
-      {
-        "id": 43761649597,
-        "event": "workflow_dispatch",
-        "status": "completed",
-        "conclusion": "success",
-        "created_at": "2026-11-15T21:04:55Z",
-        "name": "Live probe every 2h",
-        "runner_id": 1000000338,
-        "steps": 11,
-        "duration_s": 122.0,
-        "quota_like": false
-      },
-      {
-        "id": 43680688344,
-        "event": "workflow_dispatch",
-        "status": "completed",
-        "conclusion": "success",
-        "created_at": "2026-11-15T05:20:54Z",
-        "name": "Live probe every 2h",
-        "runner_id": 1000000329,
-        "steps": 11,
-        "duration_s": 111.0,
         "quota_like": false
       }
     ],
