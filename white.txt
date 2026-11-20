@@ -83,4 +83,4 @@ vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?flow=xtls-rprx-vis
 vless://cf4d2594-77a8-0001-b99e-73ae8fb954eb@185.151.243.186:443?security=tls&fp=chrome&sni=piodr-ru-74sel.my-fade.cloud&encryption=none&type=tcp
 vless://3150a468-88fd-0001-af91-4aef86004812@168.113.254.247:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=vcerx-ru-67sb.my-fade.cloud&fp=qq
 vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?encryption=none&mode=gun&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&security=reality&sid=ea322b8b5b015812&sni=emberworks.cloud&type=grpc&fp=ios
-vless://e89a2a0e-7803-447e-b050-3ba67962ed95@87.228.92.112:25135?pbk=zJI16_ywLd4clshY0IQQPxQ_YBbIq2b0XTO_dnTJOy4&security=reality&sid=fe51f413b9646e97&sni=s-25452.nl18.h1clayd.click&fp=ios
+vless://566f2431-4c98-484a-abaa-e29adc3b30c4@193.200.229.240:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&pbk=ogx2q9nA6IVvw2JHIrJoSNzu4RdMhWNu3lPuYf5MjiY&sid=
