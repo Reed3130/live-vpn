@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-19T20:32:34Z",
+  "updated_utc": "2026-11-20T07:10:45Z",
   "private": {
     "repo": "Reed3130/AVK-VPN-private",
     "sampled": 15,
@@ -8,20 +8,44 @@
     "cancelled": 0,
     "quota_like_failures": 15,
     "last_success_at": null,
-    "last_failure_at": "2026-11-19T20:18:25Z",
+    "last_failure_at": "2026-11-20T04:25:04Z",
     "last_run": {
-      "id": 44607307218,
-      "event": "schedule",
+      "id": 44674255684,
+      "event": "push",
       "status": "completed",
       "conclusion": "failure",
-      "created_at": "2026-11-19T20:18:25Z",
-      "name": "Live filter hourly",
+      "created_at": "2026-11-20T04:25:04Z",
+      "name": "Android CI",
       "runner_id": 0,
       "steps": 0,
-      "duration_s": 2.0,
+      "duration_s": 1.0,
       "quota_like": true
     },
     "recent": [
+      {
+        "id": 44674255684,
+        "event": "push",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2026-11-20T04:25:04Z",
+        "name": "Android CI",
+        "runner_id": 0,
+        "steps": 0,
+        "duration_s": 1.0,
+        "quota_like": true
+      },
+      {
+        "id": 44658733136,
+        "event": "schedule",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2026-11-20T02:09:11Z",
+        "name": "Live filter hourly",
+        "runner_id": 0,
+        "steps": 0,
+        "duration_s": 2.0,
+        "quota_like": true
+      },
       {
         "id": 44607307218,
         "event": "schedule",
@@ -177,30 +201,6 @@
         "steps": 0,
         "duration_s": 2.0,
         "quota_like": true
-      },
-      {
-        "id": 44147290646,
-        "event": "push",
-        "status": "completed",
-        "conclusion": "failure",
-        "created_at": "2026-11-17T18:23:22Z",
-        "name": "Android CI",
-        "runner_id": 0,
-        "steps": 0,
-        "duration_s": 2.0,
-        "quota_like": true
-      },
-      {
-        "id": 44143535920,
-        "event": "workflow_dispatch",
-        "status": "completed",
-        "conclusion": "failure",
-        "created_at": "2026-11-17T18:02:33Z",
-        "name": "Android CI",
-        "runner_id": 0,
-        "steps": 0,
-        "duration_s": 2.0,
-        "quota_like": true
       }
     ],
     "quota_status": "exhausted_or_no_runner"
@@ -212,31 +212,67 @@
     "failure": 0,
     "cancelled": 0,
     "quota_like_failures": 0,
-    "last_success_at": "2026-11-19T12:19:07Z",
+    "last_success_at": "2026-11-20T02:44:28Z",
     "last_failure_at": null,
     "last_run": {
-      "id": 44609714042,
+      "id": 44693035233,
       "event": "schedule",
       "status": "in_progress",
       "conclusion": "",
-      "created_at": "2026-11-19T20:32:30Z",
+      "created_at": "2026-11-20T07:10:40Z",
       "name": "Actions quota monitor",
-      "runner_id": 1000000409,
+      "runner_id": 1000000414,
       "steps": 6,
       "duration_s": null,
       "quota_like": false
     },
     "recent": [
       {
-        "id": 44609714042,
+        "id": 44693035233,
         "event": "schedule",
         "status": "in_progress",
         "conclusion": "",
+        "created_at": "2026-11-20T07:10:40Z",
+        "name": "Actions quota monitor",
+        "runner_id": 1000000414,
+        "steps": 6,
+        "duration_s": null,
+        "quota_like": false
+      },
+      {
+        "id": 44662923555,
+        "event": "schedule",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-11-20T02:44:28Z",
+        "name": "Live probe every 2h",
+        "runner_id": 1000000412,
+        "steps": 11,
+        "duration_s": 12.0,
+        "quota_like": false
+      },
+      {
+        "id": 44623492759,
+        "event": "schedule",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-11-19T21:54:53Z",
+        "name": "Live probe every 2h",
+        "runner_id": 1000000410,
+        "steps": 11,
+        "duration_s": 9.0,
+        "quota_like": false
+      },
+      {
+        "id": 44609714042,
+        "event": "schedule",
+        "status": "completed",
+        "conclusion": "success",
         "created_at": "2026-11-19T20:32:30Z",
         "name": "Actions quota monitor",
         "runner_id": 1000000409,
-        "steps": 6,
-        "duration_s": null,
+        "steps": 7,
+        "duration_s": 27.0,
         "quota_like": false
       },
       {
@@ -370,42 +406,6 @@
         "steps": 11,
         "duration_s": 2493.0,
         "quota_like": false
-      },
-      {
-        "id": 44041967588,
-        "event": "schedule",
-        "status": "completed",
-        "conclusion": "success",
-        "created_at": "2026-11-17T07:51:47Z",
-        "name": "Actions quota monitor",
-        "runner_id": 1000000378,
-        "steps": 7,
-        "duration_s": 27.0,
-        "quota_like": false
-      },
-      {
-        "id": 44005007559,
-        "event": "schedule",
-        "status": "completed",
-        "conclusion": "success",
-        "created_at": "2026-11-17T02:43:00Z",
-        "name": "Live probe every 2h",
-        "runner_id": 1000000373,
-        "steps": 11,
-        "duration_s": 1016.0,
-        "quota_like": false
-      },
-      {
-        "id": 43965494577,
-        "event": "schedule",
-        "status": "completed",
-        "conclusion": "success",
-        "created_at": "2026-11-16T21:58:55Z",
-        "name": "Actions quota monitor",
-        "runner_id": 1000000371,
-        "steps": 7,
-        "duration_s": 28.0,
-        "quota_like": false
       }
     ],
     "quota_status": "ok"
@@ -415,8 +415,8 @@
   },
   "cache_private": {
     "full_name": "Reed3130/AVK-VPN-private",
-    "active_caches_size_in_bytes": 1496913567,
-    "active_caches_count": 15
+    "active_caches_size_in_bytes": 4439559,
+    "active_caches_count": 1
   },
   "cache_public": {
     "full_name": "Reed3130/live-vpn",
