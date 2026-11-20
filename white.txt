@@ -80,4 +80,4 @@ vless://ff13a272-dd8f-4f4c-89e0-6bfdf25c10a7@152.234.239.170:9467?encryption=non
 vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?security=tls&amp;sni=tansy-wharf.cdn.cachefleet.com&amp;alpn=h2&amp;fp=firefox&amp;type=xhttp&amp;host=is-tw-relay.cdn.cachefleet.com&amp;path=/ccxf5snr06b8xxb6&amp;mode=auto
 vless://b29dbea6-ca59-4d9f-baac-596dc8402812@188.225.25.35:443?encryption=none&flow=xtls-rprx-vision&pbk=rJ-fFNYXh7WW9LuYe1N71fh7nAEe5i09Pi5ZDSDlH1s&security=reality&sid=4951a2313524dd8f&sni=ru.starkclaude.top&type=raw&fp=safari
 vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@pebble.gerqix.online:443?security=tls&amp;serviceName=glush.de2.v1&amp;sni=pebble.gerqix.online&amp;type=grpc&amp;fp=ios
-vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@pebble.gerqix.online:443?alpn=h2&amp;encryption=none&amp;mode=gun&amp;security=tls&amp;serviceName=glush.de2.v1&amp;sni=pebble.gerqix.online&amp;type=grpc&amp;fp=ios
+vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@cryptoventura.online:443?type=ws&security=tls&fp=firefox&sni=hemlock.elvano.website&host=cryptoventura.online
