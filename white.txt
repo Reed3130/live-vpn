@@ -83,4 +83,4 @@ vless://ffb2c504-2c6c-49f3-b4bd-9fd3ff6ce454@tochkacdn.top:443?encryption=none&t
 vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@89.169.2.136:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=firefox&amp;pbk=95EyUgsp_C-OrWKVsULHhFyY-tVYA3kMCZHIjIjjJhc&amp;security=reality&amp;sid=5ea969574fc3c06e&amp;sni=node-de-3.nztpro.com&amp;type=tcp
 vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?security=tls&amp;amp;sni=tansy-wharf.cdn.cachefleet.com&amp;amp;alpn=h2&amp;amp;fp=firefox&amp;amp;type=xhttp&amp;amp;host=is-tw-relay.cdn.cachefleet.com&amp;amp;path=/ccxf5snr06b8xxb6&amp;amp;mode=auto
 vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?security=tls&amp;fp=qq&amp;sni=szqbx-ru-77dc.my-fade.cloud&amp;type=tcp&amp;headerType=none&amp;path=/
-vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?type=xhttp&security=tls&fp=chrome&sni=wholebeam.com&path=/api/v1/upload&host=wholebeam.com
+vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?type=xhttp&security=tls&fp=firefox&sni=wholebeam.com&path=/api/v1/upload&host=wholebeam.com&mode=auto
