@@ -80,4 +80,4 @@ vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@almanac.filnex.baby:443?alpn=h2&enc
 vless://295e7da5-ac41-40eb-8047-9f55996d5296@152.234.248.95:6443?encryption=none&fp=firefox&path=/067d0a4b4e242e01cf58828e&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=6b2f4e6ac9b1d2f0&sni=nl.overgroup.cloud&type=xhttp
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@sunfield.moltex.click:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=sunfield.moltex.click&mode=auto&path=%2Fapi%2Fde1%2Fsync&security=tls&sni=sunfield.moltex.click&type=xhttp&fp=random
 hysteria2://be986553-5976-0001-9209-3050366e40d1@185.151.243.186:443?alpn=h3&sni=piodr-ru-74sel.my-fade.cloud
-vless://f2341274-8dd8-4b80-95fd-780641f6f2da@185.88.101.105:443?mode=gun&security=reality&encryption=none&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&fp=firefox&type=grpc&serviceName=fl13svinkapro-grpc&sni=fl13.svinka.pro&sid=0858af97f4e7324d
+vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@nep.cryptoventura.online:443?mode=packet-up&path=/api/api_v2/mediaupload_process&security=tls&alpn=h2,http/1.1&encryption=none&extra={
