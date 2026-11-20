@@ -83,4 +83,4 @@ vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?flow=xtls-rprx-vis
 vless://cf4d2594-77a8-0001-b99e-73ae8fb954eb@185.151.243.186:443?security=tls&fp=chrome&sni=piodr-ru-74sel.my-fade.cloud&encryption=none&type=tcp
 vless://3150a468-88fd-0001-af91-4aef86004812@168.113.254.247:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=vcerx-ru-67sb.my-fade.cloud&fp=qq
 vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?encryption=none&mode=gun&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&security=reality&sid=ea322b8b5b015812&sni=emberworks.cloud&type=grpc&fp=ios
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWlp6Zm8xbXFIN1BxbmxvQW9nZGkyWEJobGdpb2ZNeQ@64.49.13.12:2089
+ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA==@185.156.47.97:9443
