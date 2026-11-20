@@ -1,4 +1,3 @@
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@129.101.98.60:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=firefox&amp;pbk=lews1n_fypGexd_dMofEO4Vy1ULsFeVIFa90MMY3pm4&amp;security=reality&amp;sid=3992cc7fb9fcbe58&amp;sni=ru7e2bab87cc39.eu-cdn539.com&amp;type=tcp
 vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@linen.gerqix.online:443?alpn=h2&amp;encryption=none&amp;mode=gun&amp;security=tls&amp;serviceName=glush.de1.v1&amp;sni=linen.gerqix.online&amp;type=grpc&amp;fp=edge
 vless://003ec416-45f0-462a-8030-016fe0a71703@141.11.203.165:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;sni=186.baklajann.ru&amp;fp=chrome&amp;alpn=h2,http/1.1&amp;path=/&amp;host=186.baklajann.ru&amp;mode=auto
 vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@95.129.236.70:443?encryption=none&fp=firefox&host=static.lk.pc-club.app&path=/gateway/v1/ws/de963c1a03a37c66383da198813099b1&security=tls&sni=static.lk.pc-club.app&type=ws
@@ -84,3 +83,4 @@ vless://4a923161-156f-4914-8cac-762fb2433bfb@84.252.100.33:43000?encryption=none
 vless://f2f13166-4b9d-0001-80a0-de62018e6c71@188.68.216.27:443?security=tls&sni=qtuod-ru-56sel.fade.mom&fp=safari
 vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&fp=firefox&host=wholebeam.com&path=/api/v1/upload&security=tls&sni=wholebeam.com&type=xhttp
 vless://e5d9306d-06fd-0001-a707-11f21c9b446a@188.68.216.27:443?security=tls&sni=qtuod-ru-56sel.fade.mom&fp=android
+vless://f33db17e-f4e1-4371-ab25-60de8db04736@188.72.112.2:443?type=xhttp&security=tls&fp=firefox&sni=cdn.white.gigobingo.ru&path=/api/v1/assets&host=cdn.white.gigobingo.ru&mode=packet-up&extra={
