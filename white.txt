@@ -83,4 +83,4 @@ vless://4a923161-156f-4914-8cac-762fb2433bfb@84.252.100.33:43000?encryption=none
 vless://f2f13166-4b9d-0001-80a0-de62018e6c71@188.68.216.27:443?security=tls&sni=qtuod-ru-56sel.fade.mom&fp=safari
 vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&fp=firefox&host=wholebeam.com&path=/api/v1/upload&security=tls&sni=wholebeam.com&type=xhttp
 vless://e5d9306d-06fd-0001-a707-11f21c9b446a@188.68.216.27:443?security=tls&sni=qtuod-ru-56sel.fade.mom&fp=android
-vless://f33db17e-f4e1-4371-ab25-60de8db04736@188.72.112.2:443?type=xhttp&security=tls&fp=firefox&sni=cdn.white.gigobingo.ru&path=/api/v1/assets&host=cdn.white.gigobingo.ru&mode=packet-up&extra={
+vless://526d0645-afd6-4e76-af8f-441c023c8795@84.201.157.100:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dTsRKJN6v03ir1RDMk-DglS9TKiGXRPh1HYbbZXZuUQ&security=reality&sid=46761921684ac921&sni=api-maps.yandex.ru&type=tcp
