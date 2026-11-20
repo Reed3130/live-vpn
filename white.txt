@@ -83,4 +83,4 @@ vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?encryption=none&m
 vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?alpn=h2&encryption=none&insecure=0&mode=gun&security=tls&serviceName=mobile.api.Event&sni=vps3.nemnogogo.com&type=grpc&fp=firefox
 vless://4a923161-156f-4914-8cac-762fb2433bfb@84.252.100.33:43000?encryption=none&flow=xtls-rprx-vision&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&security=reality&sid=ee4ea980&sni=84.252.100.33&type=tcp&fp=ios
 vless://f2f13166-4b9d-0001-80a0-de62018e6c71@188.68.216.27:443?security=tls&sni=qtuod-ru-56sel.fade.mom&fp=safari
-vless://cf4d2594-77a8-0001-b99e-73ae8fb954eb@185.151.243.186:443?encryption=none&security=tls&sni=piodr-ru-74sel.my-fade.cloud&fp=ios
+vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&fp=firefox&host=wholebeam.com&path=/api/v1/upload&security=tls&sni=wholebeam.com&type=xhttp
