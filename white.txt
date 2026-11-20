@@ -1,3 +1,4 @@
+vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@90.156.214.67:443?sni=kino.mail.ru&security=reality&sid=4b16bcdde653ab45&fp=firefox
 vless://a346c521-7a7f-452b-9356-a4893feb5982@89.221.203.29:443?type=tcp&amp;security=reality&amp;flow=xtls-rprx-vision&amp;fp=firefox&amp;pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&amp;sid=457fab2ac885dbe0&amp;sni=ru2-r.bankai.party
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&headerType=none&path=%2F&security=tls&sni=mosaic.topp-con.xyz&type=tcp&fp=ios
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@194.58.95.65:443?flow=xtls-rprx-vision&amp;security=reality&amp;sni=hohol.nodexphere.net&amp;fp=firefox&amp;pbk=SnoafrsbeHFuYj-qQsTDjBhy1eBQB7J7Q9HAZQSMgHY
@@ -82,5 +83,4 @@ vless://66c78912-4e2d-41dc-8742-aaae2590804e@13.143.187.220:443?type=raw&securit
 vless://27f26dee-9cf1-4cca-93f8-9ac23d311408@147.45.47.101:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=apple.com
 vless://a77d6228-85a9-449f-b600-ccf4018230eb@83.166.237.124:8444?security=reality&encryption=none&pbk=h16vbQ_IBohiTlEVzz1oEZBf63peHSTbhQ3sJuQO-Vw&headerType=&type=tcp&flow=xtls-rprx-vision&sni=game2.stich.my&sid=eab3935b74dd7756&fp=qq
 vless://a77d6228-85a9-449f-b600-ccf4018230eb@83.166.237.124:8444?security=reality&encryption=none&pbk=h16vbQ_IBohiTlEVzz1oEZBf63peHSTbhQ3sJuQO-Vw&headerType=&type=tcp&flow=xtls-rprx-vision&sni=game2.stich.my&sid=eab3935b74dd7756&fp=safari
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?type=grpc&security=reality&fp=firefox&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&sid=ea322b8b5b015812&sni=emberworks.cloud&mode=gun
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@ledger.filnex.baby:443?alpn=h2&encryption=none&security=tls&serviceName=glush.de2.v1&sni=copperdell.merlano.monster&type=grpc&fp=ios
+vless://49118954-b846-4da7-9d55-c859ce59ab50@79.174.92.180:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=5d73hwUBkVYgpoy_H4Rsq64LqklNZB-mwXcMj2W7XV0&security=reality&sid=bd0772b42160b76b&sni=fi.xenovpn.top&type=raw
