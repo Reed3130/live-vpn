@@ -83,4 +83,4 @@ vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@89.169.2.136:443?encryption=none&am
 vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?security=tls&amp;amp;sni=tansy-wharf.cdn.cachefleet.com&amp;amp;alpn=h2&amp;amp;fp=firefox&amp;amp;type=xhttp&amp;amp;host=is-tw-relay.cdn.cachefleet.com&amp;amp;path=/ccxf5snr06b8xxb6&amp;amp;mode=auto
 vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?security=tls&amp;fp=qq&amp;sni=szqbx-ru-77dc.my-fade.cloud&amp;type=tcp&amp;headerType=none&amp;path=/
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?flow=xtls-rprx-vision&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&security=reality&sid=2ef2b10d5143d798&sni=mirror-50.topp-con.xyz&type=tcp&fp=random
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@195.133.5.196:18443
+hysteria2://5c49355f-afbc-0001-9c1c-8205436bb97c@185.151.243.186:443?alpn=h3&pinSHA256=d71dee6f06749e3ed87bba907da71f538edb9dd5e778eb7321e8d056ff207739&sni=piodr-ru-74sel.my-fade.cloud
