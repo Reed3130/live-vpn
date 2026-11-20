@@ -83,4 +83,4 @@ vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&amp;p
 vless://ffb2c504-2c6c-49f3-b4bd-9fd3ff6ce454@tochkacdn.top:443?encryption=none&type=ws&security=tls&sni=unlik.club&path=%2Fstatic%2Ftelemetry%2F3c9aaef00005%2F&fp=chrome
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@129.101.98.60:443?flow=xtls-rprx-vision&amp;pbk=lews1n_fypGexd_dMofEO4Vy1ULsFeVIFa90MMY3pm4&amp;security=reality&amp;sid=3992cc7fb9fcbe58&amp;sni=ru7e2bab87cc39.eu-cdn539.com&amp;fp=random
 vless://ffb2c504-2c6c-49f3-b4bd-9fd3ff6ce454@tochkacdn.top:443?encryption=none&type=ws&security=tls&sni=unlik.club&alpn=http%2F1.1&path=%2Fstatic%2Ftelemetry%2F3c9aaef00005%2F&host=tochkacdn.top&fp=firefox
-hysteria2://3098af7f-dd3e-0001-b8e5-05a194206ac0@168.113.254.183:443?sni=xykmh-ru-70sb.my-fade.cloud&pinSHA256=e53ee5f3142e0ce20b4b9d7041dd54c9921b4e215a9eae54440236affe7bb4a2
+hysteria2://3098af7f-dd3e-0001-b8e5-05a194206ac0@168.113.254.183:443?sni=xykmh-ru-70sb.my-fade.cloud
