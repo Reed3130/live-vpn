@@ -83,4 +83,4 @@ vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?encryption=none&fl
 vless://3150a468-88fd-0001-af91-4aef86004812@168.113.254.247:443?encryption=none&type=tcp&security=tls&sni=vcerx-ru-67sb.my-fade.cloud&fp=chrome
 vless://f2341274-8dd8-4b80-95fd-780641f6f2da@185.88.101.105:443?encryption=none&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&security=reality&serviceName=fl13svinkapro-grpc&sid=0858af97f4e7324d&sni=fl13.svinka.pro&type=grpc
 vless://50414e45-4c5f-5a45-5553-c1fdcffbbe65@185.243.112.197:443?encryption=none&type=ws&security=tls&sni=c6zu9behu5bs.wf209v5eewrf.workers.dev&fp=chrome&path=/stream/PANEL_ZEUS/c1fdcffbbe65
-vless://26843758-24de-4f76-b5d0-624038e353c4@196.196.204.137:443?encryption=none&fp=firefox&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&security=reality&sid=e572b6579ea525d4&sni=71b840t.de7.h1clayd.click&type=tcp
+vless://a90a8089-1367-4aa0-bf77-ce74d0786bdb@95.163.209.247:443?encryption=none&path=/api/generate&pbk=87MlVLlUdyNhLfxhktmWtzp6UAInFjzwvyVg1A7Zgz8&security=reality&sid=03f1e073fa9e42ac&sni=seedance25.neuroseti.info&type=xhttp&fp=firefox
