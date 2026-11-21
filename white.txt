@@ -1,4 +1,3 @@
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@200.169.179.233:443?security=tls&serviceName=mobile.api.Event&sni=vps3.nemnogogo.com&type=grpc&fp=firefox
 vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@200.169.179.233:443?security=tls&amp;serviceName=mobile.api.Event&amp;sni=vps3.nemnogogo.com&amp;type=grpc&amp;fp=firefox
 vless://f33db17e-f4e1-4371-ab25-60de8db04736@188.72.112.2:443?type=xhttp&security=tls&fp=firefox&sni=cdn.white.gigobingo.ru&path=/api/v1/assets&host=cdn.white.gigobingo.ru&mode=packet-up&extra={
 vless://ffb2c504-2c6c-49f3-b4bd-9fd3ff6ce454@tochkacdn.top:443?encryption=none&type=ws&security=tls&sni=unlik.club&path=%2Fstatic%2Ftelemetry%2F3c9aaef00005%2F&fp=qq
@@ -89,3 +88,4 @@ vless://a90a8089-1367-4aa0-bf77-ce74d0786bdb@95.163.209.247:443?encryption=none&
 hysteria2://49142625-3a86-0001-9a44-274a17eb89ae@188.68.216.27:443?pinSHA256=3bb90b7916051275cfc66e6e489a0f2094a823ca081c2041380fca2762df1412&amp;sni=qtuod-ru-56sel.fade.mom
 vless://b29dbea6-ca59-4d9f-baac-596dc8402812@188.225.25.35:443?encryption=none&amp;amp;flow=xtls-rprx-vision&amp;amp;pbk=rJ-fFNYXh7WW9LuYe1N71fh7nAEe5i09Pi5ZDSDlH1s&amp;amp;security=reality&amp;amp;sid=4951a2313524dd8f&amp;amp;sni=ru.starkclaude.top&amp;amp;type=raw&amp;amp;fp=safari
 vless://71bd5b95-4079-417e-a34f-386a07588105@188.225.83.204:7443?encryption=none&security=tls&sni=polska.champmoney.ru&type=raw&fp=ios
+vless://71bd5b95-4079-417e-a34f-386a07588105@188.225.83.204:7443?security=tls&sni=polska.champmoney.ru&fp=safari
