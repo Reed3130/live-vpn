@@ -83,4 +83,4 @@ vless://3150a468-88fd-0001-af91-4aef86004812@168.113.254.247:443?encryption=none
 vless://f2341274-8dd8-4b80-95fd-780641f6f2da@185.88.101.105:443?encryption=none&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&security=reality&serviceName=fl13svinkapro-grpc&sid=0858af97f4e7324d&sni=fl13.svinka.pro&type=grpc
 vless://50414e45-4c5f-5a45-5553-c1fdcffbbe65@185.243.112.197:443?encryption=none&type=ws&security=tls&sni=c6zu9behu5bs.wf209v5eewrf.workers.dev&fp=chrome&path=/stream/PANEL_ZEUS/c1fdcffbbe65
 vless://a90a8089-1367-4aa0-bf77-ce74d0786bdb@95.163.209.247:443?encryption=none&path=/api/generate&pbk=87MlVLlUdyNhLfxhktmWtzp6UAInFjzwvyVg1A7Zgz8&security=reality&sid=03f1e073fa9e42ac&sni=seedance25.neuroseti.info&type=xhttp&fp=firefox
-vless://ffb2c504-2c6c-49f3-b4bd-9fd3ff6ce454@tochkacdn.top:443?encryption=none&amp;type=ws&amp;security=tls&amp;sni=unlik.club&amp;alpn=http/1.1&amp;path=/static/telemetry/3c9aaef00005/&amp;host=tochkacdn.top&amp;fp=android
+vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?type=xhttp&amp;security=tls&amp;fp=firefox&amp;sni=wholebeam.com&amp;path=/api/v1/upload&amp;host=wholebeam.com&amp;mode=auto
