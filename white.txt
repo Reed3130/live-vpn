@@ -88,4 +88,4 @@ vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@pebble.gerqix.online:443?alpn=h2&en
 vless://bc5c220e-6c87-4465-a495-acfb1790feda@188.72.112.1:443?security=tls&sni=edge-de3.gramstar.online&alpn=h2,h3,http/1.1&fp=firefox&type=xhttp&host=edge-de3.gramstar.online&path=/uploadfiles/&mode=packet-up&extra={
 vless://ffb2c504-2c6c-49f3-b4bd-9fd3ff6ce454@185.178.208.167:443?type=ws&security=tls&sni=unlik.club&path=%2Fstatic%2Ftelemetry%2F3c9aaef00005%2F&host=tochkacdn.top&fp=firefox
 vless://a90a8089-1367-4aa0-bf77-ce74d0786bdb@95.163.209.247:443?encryption=none&amp;mode=auto&amp;path=/api/generate&amp;pbk=87MlVLlUdyNhLfxhktmWtzp6UAInFjzwvyVg1A7Zgz8&amp;security=reality&amp;sid=03f1e073fa9e42ac&amp;sni=seedance25.neuroseti.info&amp;type=xhttp&amp;fp=safari
-vless://4a923161-156f-4914-8cac-762fb2433bfb@84.252.100.33:43000?encryption=none&amp;flow=xtls-rprx-vision&amp;pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&amp;security=reality&amp;sid=ee4ea980&amp;sni=84.252.100.33&amp;type=tcp&amp;fp=ios
+vless://f7331345-aac5-4e81-b8ac-8b8aa3ee2068@185.154.194.17:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=ios&sni=img.lite64.site
