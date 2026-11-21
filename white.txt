@@ -1,4 +1,3 @@
-vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@linen.gerqix.online:443?encryption=none&amp;type=grpc&amp;mode=gun&amp;serviceName=glush.de1.v1&amp;security=tls&amp;sni=linen.gerqix.online&amp;alpn=h2&amp;fp=firefox
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@ledger.filnex.baby:443?type=grpc&security=tls&sni=copperdell.merlano.monster&serviceName=glush.de2.v1&fp=firefox
 vless://a346c521-7a7f-452b-9356-a4893feb5982@89.221.203.29:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&sid=457fab2ac885dbe0&sni=ru2-r.bankai.party
 vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@pebble.gerqix.online:443?mode=gun&security=tls&serviceName=glush.de2.v1&sni=windlass.gerqix.online&type=grpc&fp=ios
@@ -89,3 +88,4 @@ vless://a346c521-7a7f-452b-9356-a4893feb5982@89.221.203.29:443?type=tcp&amp;secu
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@ledger.filnex.baby:443?security=tls&serviceName=glush.de2.v1&sni=copperdell.merlano.monster&type=grpc&fp=firefox
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@willowbank.moltex.click:443?encryption=none&type=xhttp&security=tls&sni=daylily.moltex.click&alpn=h2,http/1.1&path=/api/de2/sync&host=willowbank.moltex.click&mode=auto&fp=chrome
 vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.24.116.192:443?security=tls&serviceName=mobile.api.Event&sni=vps3.nemnogogo.com&type=grpc&fp=firefox
+vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@linen.gerqix.online:443?alpn=h2&amp;security=tls&amp;serviceName=glush.de1.v1&amp;sni=linen.gerqix.online&amp;type=grpc&amp;fp=safari
