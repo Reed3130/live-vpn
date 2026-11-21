@@ -83,4 +83,4 @@ vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?security=tls&sn
 vless://e603affa-cf4f-4b6a-a866-6d5d5bb3a13d@185.86.145.214:12358?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6V01vmstwvGJXz2r2eHE55Fr_L1KRYhjCwk5KD6CwmE&security=reality&sid=b6f632a91065521e&sni=passport.yandex.ru&type=tcp
 vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=/ccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&host=is-tw-relay.cdn.cachefleet.com&fp=chrome&type=xhttp&sni=sorrel-gate.cdn.cachefleet.com
 vless://96c760c3-6949-4a00-b603-16173b9b1a66@185.86.145.223:9449?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=VB9m1gQWzJWBXa49PMVGKkI94KN0XRCpC1BSpQP7yzk&sid=0cc15b71a8a6a380&sni=tmuk1.trust.rumost.top
-vless://ffb2c504-2c6c-49f3-b4bd-9fd3ff6ce454@tochkacdn.top:443?security=tls&type=ws&sni=unlik.club&path=/static/telemetry/3c9aaef00005/&host=tochkacdn.top&fp=ios
+vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@almanac.filnex.baby:443?alpn=h2&encryption=none&security=tls&serviceName=glush.de1.v1&sni=morningfen.merlano.monster&type=grpc&fp=firefox
