@@ -83,4 +83,4 @@ vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?encryption=none&fl
 vless://3150a468-88fd-0001-af91-4aef86004812@168.113.254.247:443?encryption=none&type=tcp&security=tls&sni=vcerx-ru-67sb.my-fade.cloud&fp=chrome
 vless://f2341274-8dd8-4b80-95fd-780641f6f2da@185.88.101.105:443?encryption=none&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&security=reality&serviceName=fl13svinkapro-grpc&sid=0858af97f4e7324d&sni=fl13.svinka.pro&type=grpc
 vless://50414e45-4c5f-5a45-5553-c1fdcffbbe65@185.243.112.197:443?encryption=none&type=ws&security=tls&sni=c6zu9behu5bs.wf209v5eewrf.workers.dev&fp=chrome&path=/stream/PANEL_ZEUS/c1fdcffbbe65
-vless://d92038b6-b470-4267-9c69-2c649bf3f4a4@136.234.9.19:443?security=reality&fp=firefox&pbk=43bHrvqzL5Sw8lvtDSE3LAlp_0WbixVc7nYcAf17bhg&sid=16b6715de8577aaa&sni=8ba6c3t.nl2.h1clayd.click
+vless://26843758-24de-4f76-b5d0-624038e353c4@196.196.204.137:443?encryption=none&fp=firefox&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&security=reality&sid=e572b6579ea525d4&sni=71b840t.de7.h1clayd.click&type=tcp
