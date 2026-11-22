@@ -1,4 +1,3 @@
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@almanac.filnex.baby:443?security=tls&serviceName=glush.de1.v1&sni=morningfen.merlano.monster&type=grpc&fp=edge
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@willowbank.moltex.click:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;sni=daylily.moltex.click&amp;alpn=h2,http/1.1&amp;path=/api/de2/sync&amp;host=willowbank.moltex.click&amp;mode=auto&amp;fp=chrome
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@almanac.filnex.baby:443?security=tls&serviceName=glush.de1.v1&sni=morningfen.merlano.monster&type=grpc&fp=chrome
 vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@89.169.2.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=95EyUgsp_C-OrWKVsULHhFyY-tVYA3kMCZHIjIjjJhc&security=reality&sid=5ea969574fc3c06e&sni=node-de-3.nztpro.com&type=tcp
@@ -89,3 +88,4 @@ vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@81.200.158.26:443?type=grpc&securit
 vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@95.129.236.239:443?security=tls&type=ws&sni=files-qzgs.login.opendns.stream&path=%2Forigin%2F246825491%2Ffetch&host=files-qzgs.login.opendns.stream&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B*CIDR%5D
 vless://ffb2c504-2c6c-49f3-b4bd-9fd3ff6ce454@tochkacdn.top:443?encryption=none&type=ws&security=tls&sni=unlik.club&alpn=http/1.1&path=/static/telemetry/3c9aaef00005/&host=tochkacdn.top&fp=safari#vless%3A%2F%2Fffb2c504-2c6c-49f3-b4bd-9fd3
 vless://ffb2c504-2c6c-49f3-b4bd-9fd3ff6ce454@185.178.208.167:443?type=ws&security=tls&sni=unlik.club&path=/static/telemetry/3c9aaef00005/&host=tochkacdn.top&fp=firefox#vless%3A%2F%2Fffb2c504-2c6c-49f3-b4bd-9fd3
+vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@willowbank.moltex.click:443?encryption=none&type=xhttp&security=tls&sni=daylily.moltex.click&alpn=h2,http/1.1&path=/api/de2/sync&host=willowbank.moltex.click&mode=auto&fp=random#vless%3A%2F%2F25ac78e7-6d1d-4c9a-a450-c01a
